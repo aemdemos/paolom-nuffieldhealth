@@ -1,0 +1,163 @@
+{
+  "url": "https://www.nuffieldhealth.com/advice-hubs",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[3]/div[1]\n  /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[4]",
+    "hash": 1255423769
+  },
+  "pageHeight": 2358,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/advice-hubs",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id--1234801151",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 53,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 84,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-fjtuuk-1234801151"
+            },
+            {
+              "id": "box-id--554742812",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 55,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 137,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-fjtuuk-554742812"
+            },
+            {
+              "id": "box-id--1998309597",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1150,
+              "height": 253,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 65,
+              "y": 253,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-fjtuuk-1998309597"
+            },
+            {
+              "id": "box-id--1998309566",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1150,
+              "height": 1719,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[11]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[15]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[17]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--3 grid--gutter-narrow card-group\"]/div[@class=\"grid__cell\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 3,
+                "numRows": 6
+              },
+              "x": 65,
+              "y": 521,
+              "mapping": "cards",
+              "customBlockName": "aicards-fjtuuk-1998309566"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

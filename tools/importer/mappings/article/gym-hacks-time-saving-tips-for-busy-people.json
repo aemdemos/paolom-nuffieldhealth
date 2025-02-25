@@ -1,0 +1,187 @@
+{
+  "url": "https://www.nuffieldhealth.com/article/gym-hacks-time-saving-tips-for-busy-people",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[3]/div[1]\n  /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[3]/div[3]\n  - /html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h2[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]\n  /html[1]/body[1]/div[1]/div[4]",
+    "hash": -1916687584
+  },
+  "pageHeight": 4055,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/article/gym-hacks-time-saving-tips-for-busy-people",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id--1234801151",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 53,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 84,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-h5ur8i-1234801151"
+            },
+            {
+              "id": "box-id--554742812",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 55,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 137,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-h5ur8i-554742812"
+            },
+            {
+              "id": "box-id-1777413666",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1150,
+              "height": 184,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 65,
+              "y": 253,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-h5ur8i-1777413666"
+            },
+            {
+              "id": "box-id--1256827679",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 640,
+              "height": 295,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 175,
+              "y": 437,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-h5ur8i-1256827679"
+            },
+            {
+              "id": "box-id--1256827617",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 640,
+              "height": 96,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[3]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 175,
+              "y": 763,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-h5ur8i-1256827617"
+            },
+            {
+              "id": "box-id-1777413728",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1150,
+              "height": 90,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[3]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 65,
+              "y": 940,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-h5ur8i-1777413728"
+            },
+            {
+              "id": "box-id--1998309566",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1150,
+              "height": 2359,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 65,
+              "y": 1045,
+              "mapping": "unknown",
+              "customBlockName": "aiunknown-h5ur8i-1998309566"
+            },
+            {
+              "id": "box-id-1438636337",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 928,
+              "height": 36,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h2[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 175,
+              "y": 3525,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-h5ur8i-1438636337"
+            },
+            {
+              "id": "box-id-1585173986",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 928,
+              "height": 321,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"articles\")/div[@class=\"layout-container\"]/div[@class=\"layout layout--0-10-0 layout--no-margin-bottom\"]/div[@class=\"layout__column layout__column--1 promo-editorial-cards\"]/div[@class=\"promo-editorial-scroller\"]/div[@class=\"promo-editorial-wrapper promo-editorial-wrapper--6\"]/div[@class=\"promo-editorial promo-editorial--has-media\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"articles\")/div[@class=\"layout-container\"]/div[@class=\"layout layout--0-10-0 layout--no-margin-bottom\"]/div[@class=\"layout__column layout__column--1 promo-editorial-cards\"]/div[@class=\"promo-editorial-scroller\"]/div[@class=\"promo-editorial-wrapper promo-editorial-wrapper--6\"]/div[@class=\"promo-editorial promo-editorial--has-media\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                  "xpathWithDetails": "id(\"articles\")/div[@class=\"layout-container\"]/div[@class=\"layout layout--0-10-0 layout--no-margin-bottom\"]/div[@class=\"layout__column layout__column--1 promo-editorial-cards\"]/div[@class=\"promo-editorial-scroller\"]/div[@class=\"promo-editorial-wrapper promo-editorial-wrapper--6\"]/div[@class=\"promo-editorial promo-editorial--has-media\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 3,
+                "numRows": 1
+              },
+              "x": 175,
+              "y": 3591,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-h5ur8i-1585173986"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

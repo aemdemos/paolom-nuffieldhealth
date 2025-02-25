@@ -1,0 +1,424 @@
+{
+  "url": "https://www.nuffieldhealth.com/hospitals",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[3]/div[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/b[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[3]/div[2]\n  /html[1]/body[1]/div[1]/div[3]/div[3]\n  /html[1]/body[1]/div[1]/div[3]/div[4]\n  - /html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[2]\n  - /html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[3]\n  - /html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[4]\n  - /html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[5]\n  - /html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[6]\n  - /html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[7]\n  - /html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[8]\n  /html[1]/body[1]/div[1]/div[3]/div[5]\n  - /html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]\n  /html[1]/body[1]/div[1]/div[3]/div[7]\n  - /html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/h2[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/div[1]\n  /html[1]/body[1]/div[1]/div[4]",
+    "hash": -484950595
+  },
+  "pageHeight": 5084,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/hospitals",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id--1234801151",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 53,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 84,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b0zv5y-1234801151"
+            },
+            {
+              "id": "box-id--554742812",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 514,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"hero-location-finder hero-location-finder--text-colour-light hero-location-finder--text-align-left\"]/div[@class=\"hero-location-finder__inner\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"hero-location-finder__copy\"]/h1[@class=\"hero-location-finder__title\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/b[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"hero-location-finder hero-location-finder--text-colour-light hero-location-finder--text-align-left\"]/div[@class=\"hero-location-finder__inner\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"hero-location-finder__copy\"]/div[@class=\"hero-location-finder__desc\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"hero-location-finder hero-location-finder--text-colour-light hero-location-finder--text-align-left\"]/div[@class=\"hero-location-finder__inner\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"hero-location-finder__copy\"]/div[@class=\"hero-location-finder__desc\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"hero-location-finder hero-location-finder--text-colour-light hero-location-finder--text-align-left\"]/div[@class=\"hero-location-finder__inner\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"hero-location-finder__copy\"]/div[@class=\"hero-location-finder__search\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 1,
+                "numRows": 3
+              },
+              "x": 0,
+              "y": 137,
+              "mapping": "hero",
+              "customBlockName": "aihero-b0zv5y-554742812"
+            },
+            {
+              "id": "box-id--554742781",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 326,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 652,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b0zv5y-554742781"
+            },
+            {
+              "id": "box-id--554742750",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 505,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 978,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b0zv5y-554742750"
+            },
+            {
+              "id": "box-id--554742719",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 1281,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[4]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[1]",
+                  "xpathWithDetails": "id(\"promo-tiles-00000160-49d0-df27-a7e4-5ff35aba0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[2]",
+                  "xpathWithDetails": "id(\"promo-tiles-00000160-49d0-df27-a7e4-5ff35aba0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[3]",
+                  "xpathWithDetails": "id(\"promo-tiles-00000160-49d0-df27-a7e4-5ff35aba0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[4]",
+                  "xpathWithDetails": "id(\"promo-tiles-00000160-49d0-df27-a7e4-5ff35aba0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[5]",
+                  "xpathWithDetails": "id(\"promo-tiles-00000160-49d0-df27-a7e4-5ff35aba0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[6]",
+                  "xpathWithDetails": "id(\"promo-tiles-00000160-49d0-df27-a7e4-5ff35aba0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[7]",
+                  "xpathWithDetails": "id(\"promo-tiles-00000160-49d0-df27-a7e4-5ff35aba0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--full promo-tiles__tile--align-centre promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/a[8]",
+                  "xpathWithDetails": "id(\"promo-tiles-00000160-49d0-df27-a7e4-5ff35aba0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--full promo-tiles__tile--align-centre promo-tiles__tile--text-colour-light\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 3,
+                "numRows": 4
+              },
+              "x": 0,
+              "y": 1499,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-b0zv5y-554742719"
+            },
+            {
+              "id": "box-id-243003781",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 835,
+              "height": 133,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 175,
+              "y": 2855,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b0zv5y-243003781"
+            },
+            {
+              "id": "box-id-1201880433",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 928,
+              "height": 118,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"first_name_errors\")"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"last_name_errors\")"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 175,
+              "y": 3028,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-b0zv5y-1201880433"
+            },
+            {
+              "id": "box-id-1201880464",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 928,
+              "height": 118,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]",
+                  "xpathWithDetails": "id(\"email_errors\")"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]",
+                  "xpathWithDetails": "id(\"phone_errors\")"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 175,
+              "y": 3147,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-b0zv5y-1201880464"
+            },
+            {
+              "id": "box-id--508682029",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 928,
+              "height": 21,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[3]/label[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 175,
+              "y": 3265,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b0zv5y-508682029"
+            },
+            {
+              "id": "box-id--468863649",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 928,
+              "height": 47,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[3]/fieldset[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[3]/fieldset[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"field-contact-preference-options\")/div[@class=\"form__radio-block-options\"]/div[@class=\"form__radio-block-option\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[3]/fieldset[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"field-contact-preference-options\")/div[@class=\"form__radio-block-options\"]/div[@class=\"form__radio-block-option\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 175,
+              "y": 3292,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-b0zv5y-468863649"
+            },
+            {
+              "id": "box-id-1201880526",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 928,
+              "height": 152,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[4]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 175,
+              "y": 3399,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b0zv5y-1201880526"
+            },
+            {
+              "id": "box-id-1201880588",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 928,
+              "height": 118,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[6]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 175,
+              "y": 3592,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b0zv5y-1201880588"
+            },
+            {
+              "id": "box-id-1201880681",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 928,
+              "height": 165,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[9]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 175,
+              "y": 3710,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b0zv5y-1201880681"
+            },
+            {
+              "id": "box-id--1396413512",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 928,
+              "height": 256,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[11]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 175,
+              "y": 3916,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b0zv5y-1396413512"
+            },
+            {
+              "id": "box-id--1396413481",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 928,
+              "height": 26,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[12]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 175,
+              "y": 4212,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b0zv5y-1396413481"
+            },
+            {
+              "id": "box-id--1396413450",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 928,
+              "height": 78,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[13]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 175,
+              "y": 4278,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b0zv5y-1396413450"
+            },
+            {
+              "id": "box-id--1396413419",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 928,
+              "height": 62,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[14]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 175,
+              "y": 4396,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b0zv5y-1396413419"
+            },
+            {
+              "id": "box-id--83924171",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 928,
+              "height": 36,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/h2[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 175,
+              "y": 4579,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b0zv5y-83924171"
+            },
+            {
+              "id": "box-id-1630438494",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 928,
+              "height": 321,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/div[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"articles\")/div[@class=\"layout-container\"]/div[@class=\"layout layout--0-10-0 layout--no-margin-bottom\"]/div[@class=\"layout__column layout__column--1 promo-editorial-cards\"]/div[@class=\"promo-editorial-scroller\"]/div[@class=\"promo-editorial-wrapper promo-editorial-wrapper--3\"]/div[@class=\"promo-editorial promo-editorial--has-media\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"articles\")/div[@class=\"layout-container\"]/div[@class=\"layout layout--0-10-0 layout--no-margin-bottom\"]/div[@class=\"layout__column layout__column--1 promo-editorial-cards\"]/div[@class=\"promo-editorial-scroller\"]/div[@class=\"promo-editorial-wrapper promo-editorial-wrapper--3\"]/div[@class=\"promo-editorial promo-editorial--has-media\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                  "xpathWithDetails": "id(\"articles\")/div[@class=\"layout-container\"]/div[@class=\"layout layout--0-10-0 layout--no-margin-bottom\"]/div[@class=\"layout__column layout__column--1 promo-editorial-cards\"]/div[@class=\"promo-editorial-scroller\"]/div[@class=\"promo-editorial-wrapper promo-editorial-wrapper--3\"]/div[@class=\"promo-editorial promo-editorial--has-media\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 3,
+                "numRows": 1
+              },
+              "x": 175,
+              "y": 4645,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-b0zv5y-1630438494"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

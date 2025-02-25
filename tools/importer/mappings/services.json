@@ -1,0 +1,143 @@
+{
+  "url": "https://www.nuffieldhealth.com/services",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[3]/div[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]\n  /html[1]/body[1]/div[1]/div[3]/div[2]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[2]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[3]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[4]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[5]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[6]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[7]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[8]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[9]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[10]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[11]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[12]\n  /html[1]/body[1]/div[1]/div[4]",
+    "hash": 1534615316
+  },
+  "pageHeight": 2412,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/services",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id--1234801151",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 53,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 84,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-klndq5-1234801151"
+            },
+            {
+              "id": "box-id-105834323",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 672,
+              "height": 158,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 80,
+              "y": 187,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-klndq5-105834323"
+            },
+            {
+              "id": "box-id--1076059263",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 672,
+              "height": 187,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 80,
+              "y": 353,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-klndq5-1076059263"
+            },
+            {
+              "id": "box-id--554742781",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 1687,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[1]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016f-7a6b-da9b-a1ef-fe7bd7020000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[2]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016f-7a6b-da9b-a1ef-fe7bd7020000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[3]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016f-7a6b-da9b-a1ef-fe7bd7020000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[4]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016f-7a6b-da9b-a1ef-fe7bd7020000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[5]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016f-7a6b-da9b-a1ef-fe7bd7020000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[6]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016f-7a6b-da9b-a1ef-fe7bd7020000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[7]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016f-7a6b-da9b-a1ef-fe7bd7020000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[8]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016f-7a6b-da9b-a1ef-fe7bd7020000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[9]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016f-7a6b-da9b-a1ef-fe7bd7020000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[10]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016f-7a6b-da9b-a1ef-fe7bd7020000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[11]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016f-7a6b-da9b-a1ef-fe7bd7020000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[12]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016f-7a6b-da9b-a1ef-fe7bd7020000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 3,
+                "numRows": 4
+              },
+              "x": 0,
+              "y": 652,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-klndq5-554742781"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
