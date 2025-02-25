@@ -4,4 +4,4 @@ Fix #<gh-issue-id>
 
 Test URLs:
 - Before: https://main--paolom-nuffieldhealth--aemdemos.aem.live/
-- After: https://<branch>--paolom-nuffieldhealth--aemdemos.aem.live/
+- After: https://main--paolom-nuffieldhealth--aemdemos.aem.live/
