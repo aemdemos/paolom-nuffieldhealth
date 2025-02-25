@@ -1,0 +1,4356 @@
+{
+  "originUrl": "https://www.nuffieldhealth.com/",
+  "totalUrls": 12476,
+  "urls": [
+    {
+      "url": "https://www.nuffieldhealth.com/",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/services",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/advice-hubs",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/consultants/mr-daniele-borsetto",
+      "repCount": 3876,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/article/gym-hacks-time-saving-tips-for-busy-people",
+      "repCount": 1076,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/treatments/gastric-electrical-stimulation-for-gastroparesis",
+      "repCount": 451,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/conditions/dementia",
+      "repCount": 380,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/article/authors/dr-annie-evans",
+      "repCount": 181,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/leicester/events/atrial-fibrillation-and-cardiac-failure-ecg-interpretation",
+      "repCount": 154,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/hampshire",
+      "repCount": 145,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/warwickshire/events/virtual-ahp-education-event-an-update-on-shoulder-problems-when-to-image-when-to-refer",
+      "repCount": 141,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/parkside/treatments/adenoidectomy",
+      "repCount": 137,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cambridge/events/in-conversation-with-ms-jessica-bewick-hearing-loss-in-children",
+      "repCount": 137,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/covent-garden",
+      "repCount": 128,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/taunton/events/pre-peri-op-management-patient-optimization-whilst-they-wait-and-wait",
+      "repCount": 115,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/ipswich/events/lets-talk-about-womens-health-demystifying-the-menopause",
+      "repCount": 112,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/tests-scans/sentinel-node-biopsy",
+      "repCount": 111,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/the-holly/treatments/pelvic-surgery",
+      "repCount": 103,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/events/meet-our-expert-on-hips-knees-Sept2022",
+      "repCount": 101,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/highgate/treatments/peripheral-nerve-surgery",
+      "repCount": 92,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/symptoms/nose-bleed-epistaxis",
+      "repCount": 90,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/oxford/treatments/holmium-laser-enucleation-of-the-prostate-holep",
+      "repCount": 88,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/treatments/hindfoot-fusion",
+      "repCount": 84,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cheltenham/events/mr-kulkarni-management-of-varicose-veins-and-hernias",
+      "repCount": 83,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/tunbridge-wells/treatments/mastectomy-breast-removal",
+      "repCount": 81,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/haywards-heath/events/virtual-event-fit-for-purpose-and-the-bottom-line",
+      "repCount": 81,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brighton/events/meet-our-consultant-on-hip-knee-treatment",
+      "repCount": 71,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/woking/treatments/circumcision",
+      "repCount": 70,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/derby/events/meet-our-consultant-on-laser-eye-surgery-Jan20",
+      "repCount": 67,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/plymouth/events/meet-our-experts-on-cosmetic-surgery6220",
+      "repCount": 66,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/exeter/events/radiology-update-for-gps",
+      "repCount": 64,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/hereford/events/advances-in-hip-knee-replacements",
+      "repCount": 60,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/guildford/treatments/cryotherapy",
+      "repCount": 60,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brighton/treatments/transanal-haemorrhoid-dearterialisation-thd",
+      "repCount": 58,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/leeds",
+      "repCount": 49,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brentwood/events/worried-about-varicose-veins-meet-our-expert-November2022",
+      "repCount": 48,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/woking/events/meet-our-orthopaedic-expert-on-lower-limbs",
+      "repCount": 48,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/north-staffordshire/events/virtual-event-meet-our-experts-on-cosmetic-surgery",
+      "repCount": 47,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/warwickshire/treatments/acupuncture",
+      "repCount": 47,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/tunbridge-wells/events/virtual-event-ent-updates-coblationtonsillectomy",
+      "repCount": 47,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cambridge/treatments/hysterectomy",
+      "repCount": 44,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/bristol/treatments/cataract-surgery",
+      "repCount": 41,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/tees/events/lets-talk-hip-and-knee-pain-mar19",
+      "repCount": 40,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/guildford/events/virtual-event-paediatric-multi-system-inflammatory-syndrome-temporally-associated-with-covid-19-with-paediatric-consultant-dr-ozan-hanci",
+      "repCount": 38,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/bournemouth/events/i-feel-dizzy-doctor-assessment-and-treatment-strategies",
+      "repCount": 37,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/edinburgh/treatments/yag-capsulotomy",
+      "repCount": 36,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/parkside/tests-scans/x-ray",
+      "repCount": 36,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brentwood/treatments/vasectomy-or-male-sterilisation",
+      "repCount": 35,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/haywards-heath/treatments/breast-reduction",
+      "repCount": 34,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/parkside/gastroenterology-at-parkside-hospital",
+      "repCount": 34,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/leeds/treatments/liposuction",
+      "repCount": 33,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/taunton/treatments/intravitreal-injections",
+      "repCount": 33,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cheltenham/treatments/liposuction",
+      "repCount": 32,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/bristol/events/mens-health-prostate-cancer-and-erectile-dysfunction",
+      "repCount": 31,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wolverhampton/treatments/rectal-prolapse-repair",
+      "repCount": 31,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/the-holly/tests-scans/flexible-sigmoidoscopy",
+      "repCount": 30,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/tees/treatments/knee-replacement",
+      "repCount": 28,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/the-holly/ophthalmology-at-the-holly",
+      "repCount": 28,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/bournemouth/treatments/vasectomy-reversal",
+      "repCount": 27,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/terms/nuffield-health-website-terms-and-conditions/student-off-peak-membership-terms-and-conditions",
+      "repCount": 25,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/leicester/events/virtual-event-meet-our-expert-on-superpath-minimally-invasive-hip-replacement-8341133",
+      "repCount": 25,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/glasgow/events/meet-our-experts-on-weight-loss-surgery-one-to-one-event",
+      "repCount": 25,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/leicester/treatments/aural-toilet-ear-cleaning",
+      "repCount": 25,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/plymouth/treatments/endometrial-ablation",
+      "repCount": 25,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/highgate/general-surgery-at-highgate-hospital",
+      "repCount": 25,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/oxford/events/meet-our-expert-on-cosmetic-surgery",
+      "repCount": 24,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cardiff-and-vale/treatments/hormone-replacement-therapy-hrt",
+      "repCount": 24,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/shrewsbury/events/common-problems-excellent-solutions-for-acute-spinal-pain",
+      "repCount": 24,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/events/orthopaedic-symposium",
+      "repCount": 23,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/chichester/treatments/skin-assessment-clinic",
+      "repCount": 23,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/glasgow/treatments/nstride-autologous-protein-solution-aps",
+      "repCount": 21,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/newcastle-upon-tyne/treatments/holmium-laser-enucleation-of-the-prostate-holep",
+      "repCount": 21,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/mihp/the-foot-and-ankle-clinic-at-mihp",
+      "repCount": 20,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/chichester/events/saturday-cpd-orthopaedics-breakfast-October19",
+      "repCount": 20,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/highgate/tests-scans/ct-scan-or-cat-scan",
+      "repCount": 20,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/classes/grit",
+      "repCount": 20,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/nuffield-health-at-st-bartholomews-hospital/reflux-service-in-london",
+      "repCount": 19,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/warwickshire/womens-health",
+      "repCount": 19,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/chester/treatments/knee-surgery-acl-repair",
+      "repCount": 19,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/covid-19/i-am-humbled-by-the-opportunity-that-i-have-at-the-moment-to-offer-words-of-encouragement-and-to-be-able-to-administer-the-vaccine-to-nurses-so-that-they-can-go-on-delivering-care-to-patients-day-after-day",
+      "repCount": 18,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/exeter/treatments/breast-augmentation-enlargement",
+      "repCount": 18,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/tunbridge-wells/tissue-viability-specialist-wound-care-clinic",
+      "repCount": 18,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/nuffield-health-at-st-bartholomews-hospital/treatments/dry-needling",
+      "repCount": 18,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/leicester/psychiatry-at-leicester-hospital",
+      "repCount": 18,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/shrewsbury/treatments/pms-clinic",
+      "repCount": 17,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/leeds/robotic-orthopaedic-centre",
+      "repCount": 17,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/chester/events/meet-our-experts-on-back-pain-and-spinal-surgery",
+      "repCount": 17,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/guildford/weight-loss",
+      "repCount": 17,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cheltenham/orthopaedics",
+      "repCount": 17,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brighton/gender-affirmation-faqs",
+      "repCount": 17,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/health-topics/mens-health",
+      "repCount": 16,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/york/events/all-you-need-to-know-about-hip-and-knee-surgery-May19",
+      "repCount": 16,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/glasgow/orthopaedics",
+      "repCount": 16,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brentwood/varicose-veins",
+      "repCount": 16,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/york/treatments/hip-replacement",
+      "repCount": 16,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cardiff-and-vale/events/ophthalmic-education-event-Oct19",
+      "repCount": 15,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/oxford/womens-health",
+      "repCount": 15,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/the-holly/pregnancy-physiotherapy",
+      "repCount": 14,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/the-holly/about-the-holly-hospital/patient-feedback-at-the-holly-hospital",
+      "repCount": 14,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cancer-centre-london/treatments/stereotactic-radiotherapy",
+      "repCount": 14,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/edinburgh/diagnostic-imaging-at-edinburgh-hospital",
+      "repCount": 14,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/parkside/about-parkside-hospital/before-your-childs-hospital-stay",
+      "repCount": 13,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/newcastle-upon-tyne/rheumatology",
+      "repCount": 13,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/bournemouth/cosmetic-surgery",
+      "repCount": 13,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/derby/treatments/hernia-repair",
+      "repCount": 13,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/bristol/sports-exercise-medicine",
+      "repCount": 13,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/tunbridge-wells/tests-scans/mammogram-breast-screening",
+      "repCount": 13,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/wessex/events/meet-our-expert-on-hernias-May2021",
+      "repCount": 12,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cambridge/private-gp-service",
+      "repCount": 12,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wolverhampton/events/shoulder-impingement-and-cuff-tears-whats-the-evidence-treatment-in-primary-care-and-when-to-refer",
+      "repCount": 12,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/newcastle-upon-tyne/events/meet-our-experts-on-cosmetic-surgery-procedure-July19",
+      "repCount": 12,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cancer-centre-london/about-cancer-centre-london/management-team-at-cancer-centre-london",
+      "repCount": 12,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/tests-scans/mri-scan",
+      "repCount": 12,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/plymouth/mens-health",
+      "repCount": 12,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/guildford/tests-scans/cystoscopy",
+      "repCount": 12,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/ipswich/treatments/body-contouring",
+      "repCount": 12,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/york/orthopaedics",
+      "repCount": 12,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/advice-hubs/prostate-health-advice-hub",
+      "repCount": 11,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/parkside/hydrotherapy-at-parkside-hospital",
+      "repCount": 11,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cardiff-and-vale/pricing",
+      "repCount": 11,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/patient-information/infection-prevention-and-control",
+      "repCount": 11,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brighton/tests-scans/electromyography-emg",
+      "repCount": 11,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/highgate/about-highgate-hospital/our-aims-and-values",
+      "repCount": 11,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/meet-our-consultant-on-back-pain-spinal-injury-and-surgery-Qureshi-Apr2023",
+      "repCount": 10,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/mihp/sports-performance/anti-gravity-treadmill",
+      "repCount": 10,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/taunton/pricing",
+      "repCount": 10,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/haywards-heath/tests-scans/x-ray",
+      "repCount": 10,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/leeds/events/weight-loss-surgery-1-to-1-mini-advice-sessions-throughout-january",
+      "repCount": 10,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/derby/mens-health",
+      "repCount": 10,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/woking/tests-scans/nerve-conduction-study",
+      "repCount": 10,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/hereford/treatments/transanal-haemorrhoid-dearterialisation-thd",
+      "repCount": 10,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/services/childrens-creche-and-junior-programme",
+      "repCount": 10,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/media-centre",
+      "repCount": 9,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/edinburgh/tests-scans/oral-dental-imaging",
+      "repCount": 9,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/spinal-robotic-assisted-navigational-surgery-at-wessex-hospital",
+      "repCount": 9,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/tees/sinus-clinic",
+      "repCount": 9,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/oxford/tests-scans/ct-calcium-scoring-or-cardiac-calcium-scoring",
+      "repCount": 9,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/tees/tests-scans/hysterosalpingogram-hsg",
+      "repCount": 9,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/warwickshire/tests-scans/mri-scan",
+      "repCount": 9,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/corporate-healthcare/online-workouts",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/health-assessments/choosing-your-health-assessment",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/parkside/orthopaedics-at-parkside-hospital/sports-injuries-at-parkside-hospital",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/ipswich/gynaecology",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/chichester/recovery-plus",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/manchester-institute-of-health-performance-mihp/tests-scans/mri-scan",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/bournemouth/tests-scans/x-ray",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cancer-centre-london/support-services-at-cancer-centre-london/links-to-useful-websites-charities",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wolverhampton/one-stop-breast-clinic-at-wolverhampton",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/shrewsbury/private-gp-service",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/the-holly/orthopaedic-centre-at-the-holly/back-and-spinal-clinic-at-the-holly",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/woking/cosmetic-surgery",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cambridge/tests-scans/ct-calcium-scoring-or-cardiac-calcium-scoring",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/nuffield-health-at-st-bartholomews-hospital/about-nuffield-health-at-st-bartholomews-hospital/how-to-get-to-nuffield-health-at-st-bartholomews-hospital",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/glasgow/tests-scans/mammogram-breast-screening",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brentwood/tests-scans/x-ray",
+      "repCount": 8,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/how-we-are-governed/our-values",
+      "repCount": 7,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/thefa/competition",
+      "repCount": 7,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/leeds/about-us/travel-assistance-plus",
+      "repCount": 7,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/highgate/orthopaedics-at-highgate-hospital/highgate-spine-unit",
+      "repCount": 7,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/the-holly/general-medicine-at-the-holly/haematology-at-the-holly",
+      "repCount": 7,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/north-staffordshire/treatments/reflux-surgery-fundoplication",
+      "repCount": 7,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/edinburgh/about-edinburgh-hospital/edinburgh-hospital-competition-markets-authority-declaration",
+      "repCount": 7,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/leicester/tests-scans/rigid-sigmoidoscopy-proctoscopy",
+      "repCount": 7,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/oxfordshire/services/physiotherapy",
+      "repCount": 7,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/movetogether/online-sessions",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/null/all-wellbeing-at-work-content",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/healthcare-professionals/events-for-healthcare-professionals",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/areas-of-speciality/sexual-health-services",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/manchester-diagnostic-suite/tests-scans/mammogram-breast-screening",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/ipswich/tests-scans/gastrointestinal-gi-endoscopy-or-gastroscopy",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/edinburgh/orthopaedics-at-edinburgh-hospital/foot-and-ankle-treatment-at-edinburgh-hospital",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wolverhampton/tests-scans/colonoscopy",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/ipswich/our-hospital-ipswich/your-visitors-at-ipswich",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cancer-centre-london/support-services-at-cancer-centre-london",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/chester/orthopaedics",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/woking/our-hospital-woking/patient-information-woking",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cheltenham/tests-scans/transthoracic-echocardiogram-tte",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cardiff-and-vale/tests-scans/cystoscopy",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/haywards-heath/pricing",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/exeter/cosmetic-surgery",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/newbury/services/health-assessments",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/membership/fair-and-honest-contract",
+      "repCount": 6,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/terms/nuffield-health-24-7-virtual-gym-membership-terms-and-conditions",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/corporate-healthcare-resources/webinar-more-than-words-why-language-matters-in-mental-health",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/our-quality-and-safety/patient-notifications",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/plymouth/tests-scans/colonoscopy",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/manchester-diagnostic-suite/ambient-experience-at-manchester-diagnostic-suite",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/newcastle-upon-tyne/tests-scans/mammogram-breast-screening",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/bristol/tests-scans/x-ray",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/leeds/tests-scans/liver-function-tests",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/excel-orthopaedics-sports-injury-clinic/orthopaedics",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/north-staffordshire/private-gp-service",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/exeter/tests-scans/x-ray",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/chichester/tests-scans/x-ray",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/hereford/tests-scans/cystoscopy",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/york/tests-scans/prostate-screening",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/nottingham/classes/pilates",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/shoreditch/services",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/medway/services/nuffy-bear-day-nursery",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/sunbury/services/physiotherapy",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wandsworth-southside/services/swimming-lessons",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/plymouth/classes/small-group-training",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bromley/services/swimming-lessons",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/harrogate/classes/small-group-training",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wolverhampton/services/swimming-lessons",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/nuneaton/services/swimming-lessons",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/milngavie/classes/pilates",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/brondesbury-park/services/nuffy-bear-day-nursery",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/glasgow-west-end/services/vitality-membership",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/surbiton/services/beauty-suite",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/birmingham-central/services",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/romford/services/childrens-creche-and-junior-programme",
+      "repCount": 5,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/mihp/cardiology-services-in-manchester/cardiology-support-for-sports-teams-at-mihp",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/our-organisation/clinical-governance",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/clinics/wharf-medical-centre/sexual-health-screening",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/sustainability/healthy-environment/food-for-thought",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/online-booking-faqs/beauty-gift-voucher-faqs",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/sustainability/healthy-community/think-apprenticeship-first-provides-local-employment-opportunities",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/our-impact/our-research",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/sustainability/healthy-work/were-an-inclusive-employer-focused-on-creating-an-inclusive-culture-where-all-our-people-feel-they-belong",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/newcastle/womens-health-physiotherapy-at-newcastle-hospital",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/paying-for-healthcare-treatment/medical-insurance",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/derby/tests-scans/colonoscopy",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/guildford/our-hospital-guildford/awards-and-accreditation-guildford",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/leeds/private-clinics/leeds-tongue-tie-clinic",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/hereford/pricing",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/bristol/private-clinics/prostate-cancer-treatment",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/glasgow/our-hospital-glasgow/your-room-at-glasgow",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/chester/tests-scans/colonoscopy",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/hemel-hempstead/services/childrens-creche-and-junior-programme",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/farnborough/services/swimming-lessons",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/kingston/services/childrens-creche-and-junior-programme",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bristol-north/services/physiotherapy",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/st-albans/timetable",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/newbury/classes",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/ealing/services/swimming-lessons",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/barbican/services/health-assessments",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/services/nuffy-bear-day-nursery/physical-activity",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/crawley/classes/pilates",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/city/services/swimming-lessons",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/edinburgh/classes/pilates",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/twickenham/services/swimming-lessons",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/didsbury/services/childrens-creche",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/cambridge/services",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/stoke-poges/services/personal-training",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bishops-stortford/faqs",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/moorgate/classes",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wimbledon/services/vitality-membership",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/sunbury/services",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/brondesbury-park/faqs",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/battersea/services",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/moorgate/services/personal-training",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/edinburgh-fountain-park/services/personal-training",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/city/classes/small-group-training",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/didsbury/classes/pilates",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/reading/services",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chelmsford/classes",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bristol/classes",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/gloucester/services/personal-training",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bloomsbury/timetable",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/edinburgh-omni/timetable",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/norbury/swimming-lessons",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/sheffield/services/private-room-hire",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/tunbridge-wells/services",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/kingston/classes/nucycle",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bloomsbury/services/swimming-lessons",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bridgend/services/physiotherapy",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/milngavie/services/swimming-lessons",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/cheam/services/nuffy-bear-day-nursery",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/fulham/classes/group-cycle",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/didsbury/services",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/aylesbury/services",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wandsworth/services/nuffy-bear-day-nursery",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/hendon/services/personal-training",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/birmingham-rubery/services/beauty-suite",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/st-albans/services/personal-training",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/rugby/services/personal-training",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/newbury/classes/small-group-training",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wolverhampton/classes/zumba",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/cheam/cheam-faqs",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/baltimore-wharf/facilities",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/surbiton/classes",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/city/classes",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/glasgow-giffnock/classes/clinical-pilates",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/surbiton/classes/zumba",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wandsworth/classes/small-group-training",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/leeds/services/physiotherapy",
+      "repCount": 4,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/media-centre/bristol-hospital-cqc",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/Booking-confirmation-PhysioGeneral-Digital-Triage/nuffield-health-physiotherapy",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/personal-best/how-to-prepare",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/healthcare-professionals/services/hssu/contacts",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/privacy/corporate-transparency-statement-your-datas-journey-through-nuffield-health-24-7",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/contact-us/complaints-procedure",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/advice-hubs/joint-pain/physiotherapy",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/your-datas-journey-through-nuffield-health-physiotherapy-services/nuffield-health-physiotherapy-corporate-referrals-ergonomic-assessment",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/clinics/barbican-medical-centre/private-gp-service-at-barbican-medical-centre",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/our-impact/healthy-life/supporting-hearts-and-minds-programme",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/thefa/preparing-the-pride-challenge/mental-agility",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/clinics/barbican-medical-centre",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/technogym",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/sustainability/healthy-work",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/taunton/mens-health-pelvic-floor-physiotherapy-at-taunton-hospital",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/nuffield-health-at-st-bartholomews-hospital/tests-scans/mri-ultrasound-fusion-prostate-biopsy",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/bristol/dentist/teeth-whitening",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/events/meet-the-expert-on-varicose-veins/MP291024",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/taunton/tests-scans/x-ray",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/north-staffordshire/tests-scans/x-ray",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/our-health-experts/meet-our-private-gps",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/shrewsbury/our-hospital-shrewsbury/meet-the-team-at-shrewsbury",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/the-holly/pain-management-at-the-holly/fibromyalgia-clinic-at-the-holly",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/exeter/areas-of-speciality/overactive-bladder-incontinence-treatment",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/areas-of-speciality/sexual-health-services/sexually-transmitted-infections-sti-facts",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/shrewsbury/tests-scans/x-ray",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/highgate/about-highgate-hospital/patient-information/virtual-consultations",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/north-staffordshire/areas-of-speciality/imaging-services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/parkside/general-medicine-at-parkside-hospital/rapid-access-clinic-at-parkside-hospital",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/east-kilbride/classes/clinical-pilates",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chelmsford/services/vitality-membership",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/gosforth/classes/pilates",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/northampton/classes/get-movement",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/gloucester/events/sports-cardiology-the-new-speciality",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/west-byfleet/services/personal-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/cannock/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/weston-super-mare/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/yeovil/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/shoreditch/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/croydon/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/guildford/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/kingston/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/cottingley/services/personal-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/derby/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/ealing/classes/pilates",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/glasgow-central/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/preston/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/edinburgh-omni/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/hull/services/tennis-academy",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bishops-stortford/services/beauty-suite",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/sheffield/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/worcester/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/leeds/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/ilford/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chester/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bristol/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chichester/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/stoke/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/letchworth-garden-city/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/crawley/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/stockley-park/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/medway/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/twickenham/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/rugby/classes/small-group-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/worcester/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/telford/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/glasgow-central/services/vitality-membership",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/hertford/services/personal-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chigwell/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/shipley/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chesterfield/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/hull/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/norwich/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chigwell/services/childrens-creche-and-junior-programme",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/gosforth/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/islington/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/norwich/classes/small-group-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/birmingham-rubery/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/manchester-printworks/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wandsworth-southside/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/weston-super-mare/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/guiseley/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/guildford/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/liverpool/services/sports-massage",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/birmingham-rubery/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wokingham/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/devonshire-plymouth/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bishops-stortford/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/derby/services/childrens-creche-and-junior-programme-in-derby",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/leicester/events/meet-our-expert-ear-nose-and-throat",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bridgend/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/glasgow-west-end/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/gloucester/classes/pilates",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/croydon-central/services/vitality-membership",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/farnborough/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/stockley-park/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/enfield/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/oxfordshire/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/northampton/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bolton/services/childrens-creche",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chesterfield/services/vitality-membership",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chislehurst/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/leicester/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/nottingham/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/paddington/services/vitality-membership",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/swindon/services/beauty-suite",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/edinburgh/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/portsmouth/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/farnham/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/hendon/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/doncaster/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/paddington/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/gloucester/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/leatherhead/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bristol/classes/small-group-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/sunbury/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wokingham/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/cottingley/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bolton/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/east-kilbride/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/islington/classes/small-group-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/edinburgh/services/personal-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/cambridge/classes/pilates",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/weston-super-mare/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/hertford/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chingford/classes/pilates",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/romford/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/east-kilbride/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/milngavie/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chester/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/services/beauty-suite/body-massage",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bromley/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/preston/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/fulham/services/personal-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bristol-north/classes/pilates",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/crawley/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/glasgow-giffnock/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/leicester/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/west-byfleet/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/oxfordshire/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chingford/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/croydon/classes/clinical-pilates",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/cwmbran/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/warwick/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/norwich/services/vitality-membership",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/croydon/services/vitality-membership",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chislehurst/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/manchester-printworks/services/vitality-membership",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/tunbridge-wells/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/harrogate/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/battersea/services/squash-courts",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/doncaster/services/personal-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/rugby/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wakefield/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/devonshire/services/childrens-creche-and-junior-programme",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/enfield/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/romford/classes/small-group-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bromley/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/cwmbran/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/guiseley/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wimbledon/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/friern-barnet/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/milton-keynes/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/aberdeen/classes/clinical-pilates",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/taunton/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/fulham/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/plymouth/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/milton-keynes/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chingford/services/personal-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/manchester-printworks/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/edinburgh-fountain-park/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/guiseley/services/vitality-membership",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/warwick/classes/small-group-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/canary-wharf/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bloomsbury/classes/pilates",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/ilford/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/stoke/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/west-byfleet/classes/pilates",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/nottingham/services/personal-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/northampton/services/personal-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/ealing/classes",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/croydon-central/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/liverpool/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/stoke-poges/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bristol-north/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/barbican/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/cannock/services/vitality-membership",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wolverhampton/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/portsmouth/services/squash-courts",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/warwick/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/aberdeen/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/islington/services/personal-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/hemel-hempstead/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/cambridge/services/personal-training",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wandsworth/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/guildford/services/swimming-lessons",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/medway/classes/zumba",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/swindon/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/covent-garden/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/nuneaton/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/leicester/timetable",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wakefield/services",
+      "repCount": 3,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/healthcare-professionals/services/hssu",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/jobs-careers/hospitals-recruitment",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/pathology-direct",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/clinics/london-west-end-medical-centre/private-gp-service",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/bristol/events/gp-education-event-wounds-and-scars-the-scar-team-at-the-nuffield-Feb2020",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/mybenefits/my-financial-wellbeing/will-writing",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/services/londons-new-health-and-wellbeing-campus",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/healthcare-professionals/services/pathology/tests-screenings",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/our-strategy-and-plans/our-history",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/meet-our-expert-on-cosmetic-surgery/Feb2024Ramakrishnan",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/leicester/events/virtual-event-meet-our-experts-on-breast-care-7797883",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/school-wellbeing",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/mywellbeing/detach",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiobusinessbox/building-and-maximising-relationships",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/how-we-are-governed/our-structure/members",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/corporate-wellbeing/occupational-health/our-credentials",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/physio-treatments/physiotherapy-treatments-for-men-womens-health/womens-health-physiotherapy",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/bournemouth/mens-health-physiotherapy-at-bournemouth-hospital",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/derby-gym/womens-health-pelvic-floor-physiotherapy-at-derby-fitness-wellbeing-gym",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/derby/womens-health-pelvic-floor-physiotherapy-at-derby-hospital",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/hampshire/mens-health-pelvic-floor-physiotherapy-at-wessex-hospital",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/brighton/mummy-mot-at-brighton-hospital",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/ipswich/mummy-mot",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/bristol/womens-health-pelvic-floor-physiotherapy-at-bristol-hospital",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/brentwood/womens-health-pelvic-floor-physiotherapy-at-brentwood-hospital",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/tees/mens-health-pelvic-floor-physiotherapy-at-tees-hospital",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/exeter/mummy-mot-at-exeter-hospital",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/health-assessments/whats-included-in-your-health-assessment/doctor-modules",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cambridge/private-clinics/the-cambridge-reflux-service",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/parkside/breast-care-services-at-parkside-hospital/one-stop-breast-clinic-at-parkside-hospital",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brentwood/areas-of-speciality/pathology",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/bristol/about-us/the-patient-experience",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/areas-of-speciality/your-orthopaedic-experience/why-choose-nuffield-health-for-orthopaedics",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/plymouth/our-hospital-plymouth/our-local-community-plymouth-hospital",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/exeter/our-hospital-exeter/patient-information-exeter",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/woking/breast-clinic/cosmetic-breast-surgery",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/chichester/our-hospital-chichester/patient-information-chichester",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/hereford/areas-of-speciality/back-pain-treatment",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/edinburgh/events/meet-our-experts-on-back-pain-management",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/parkside/private-gp-service-at-parkside-hospital/pathology-services-at-parkside-hospital",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/the-holly/endoscopy-treatment-at-the-holly/endoscopy-patients-journey",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/chichester/private-clinics/pain-management",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/parkside/neurology-at-parkside-hospital/memory-clinic-at-parkside-hospital",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cancer-centre-london/tests-scans/positron-emission-tomography-pet-scan",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/guildford/private-clinics/one-stop-back-pain-diagnostic-clinic",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/the-holly/imaging-and-diagnostics-at-the-holly/antenatal-screening-at-the-holly",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/areas-of-speciality/cosmetic-surgery/face-cosmetic-and-plastic-surgery",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/highgate/general-surgery-at-highgate-hospital/colorectal-surgery-at-highgate-hospital",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/letchworth-garden-city/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/hull/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/cheam/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bridgend/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/milton-keynes/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/leatherhead/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/friern-barnet/services/personal-training",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/cannock/classes/small-group-training",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/farnham/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/glasgow-giffnock/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/telford/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/battersea/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/devonshire/events/have-you-booked-your-mummy-mot",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bolton/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/sheffield/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/moorgate/services/beauty-suite/nail-studio",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/edinburgh-omni/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/worcester/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/baltimore-wharf/services/personal-training",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/stoke/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/hendon/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/norbury/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/taunton/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/cottingley/classes/small-group-training",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/hemel-hempstead/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/portsmouth/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/shipley/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/gosforth/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/st-albans/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/taunton/classes/clinical-pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/birmingham-central/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/devonshire-plymouth/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/aylesbury/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wakefield/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/letchworth-garden-city/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/birmingham-central/services/personal-training",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/stoke-poges/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wandsworth-southside/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chelmsford/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/reading/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/friern-barnet/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/yeovil/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wokingham/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/tunbridge-wells/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/liverpool/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chichester/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/farnborough/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/cwmbran/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/crawley-central/classes",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/aberdeen/services/personal-training",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/crawley-central/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/derby/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/farnham/classes/clinical-pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/edinburgh-fountain-park/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/preston/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chigwell/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/telford/events/an-evening-with-nuffield-healths-gp-dr-kate-jones-on-womens-mens-health",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/leatherhead/services/personal-training",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/paddington/timetable",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/brondesbury-park/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/glasgow-central/classes/clinical-pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/aylesbury/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/norbury/services/vitality-membership",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/shoreditch/services/personal-training",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/stockley-park/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/moorgate/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chester/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/doncaster/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/covent-garden/services/vitality-membership",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wimbledon/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/hertford/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/twickenham/classes/zumba",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/plymouth/services/personal-training",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/harrogate/services/swimming-lessons",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/enfield/classes/pilates",
+      "repCount": 2,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/school-wellbeing/swap-teaching-resources/pupil-resources",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/meet-our-expert-on-skin-cancer/May2024/Mann",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/employmentcontract/general-and-clinical-role-definitions",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/ageing-aches-and-pains/Nov19",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/corporate-wellbeing/health-assessments/journey/beating-stress",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/east-point",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/shrewsbury/events/gp-symposium-january-2022",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/warwick-technogym-render",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/mens-health-worried-about-your-prostate/Nov19",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/technogym-excite",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/guiseley-technogym-render",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/your-datas-journey-through-nuffield-health-hospitals",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy-in-london",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/medical-centres",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/extranet-1",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/meet-our-consultant-on-shoulder-pain/March2024/Edwin",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/corporate-healthcare/path/online-health-assessments-faqs",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/cataract-surgery-and-ageing-eye-diseases/-Nov19",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/pride",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/meet-our-consultant-on-haemorrhoids/march2024/Shatkar",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/your-datas-journey-through-nuffield-health-fitness-and-wellbeing",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/national-fitness-day-2022/what-to-expect-in-your-centre",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/full-body-exercises-post-menopause-workout",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/skin",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/path-health-assessments",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/we-are-nuffield-health/what-makes-us-different/our-quality-and-safety-programme/clinical-quality-indicators",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/fasting-blood-test",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/your-datas-journey-through-nuffield-health-gp-nurse-appointment-or-health-assessment",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/feel-fit",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/www.nuffieldhealth.com/gyms/enfield/services/personal-training",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/BristolTGLaunch",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/nuffield-health-ambassadors",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/bq",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/freshfields",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/your-datas-journey-through-nuffield-health-swim-school",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/wolverhampton-technogym-render",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/meet-our-expert-on-the-menopause-and-hrt/April2024",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/healthscore",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/mens-health-month",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/benefits/range",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gym-offers-membership",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/SWAP",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/edinburgh-technogym-render",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/the-greater-game",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/citi-london",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/your-datas-journey-through-nuffield-health-pathology-direct-services",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/www.nuffieldhealth.com/neurophysiotherapy",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/campaigns/nurseries",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/dummy-test-page-2019",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/kirton",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/reopening",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/genesiscarenh",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/wandsworth-technogym-render",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/child-friendly",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/womens-health-month",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/diagnostic-imaging-services-in-manchester",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/bromfords",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/swap-faq",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/aegon",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/concerned-about-your-haemorrhoids/Jan2025",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gogarburn",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/full-body-exercises-perimenopause-workout",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/flu-vaccine-data-journey",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/booking",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/sussex-events",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/healthiernation",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/free-running-plans-10k-half-marathon",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/vr360",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/our-impact/our-projects/cystic-fibrosis-exercise-activity/cystic-fibrosis-guidelines-for-gym-attendance",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/eye-care-clinic-in-tunbridge-wells",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/supporting-the-nhs",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/chat-on-all-aspects-of-urology/Nov24/Gujral",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/beauty-suites",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/path-disclaimer",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/investigations-and-treatment-for-acid-reflux/Nov24/Woodland",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/mens-health-week-2021",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/medway-technogym-render",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/how-to-prepare-for-your-consultation-or-appointment-during-covid-19",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/west-byfleet-technogym-render",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/pathology/payment/success",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/snoring-and-sleep-apnoea/Oct19",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/our-impact/our-projects/cystic-fibrosis-exercise-activity",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/benefit/vitality",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/nuffybear-daynursery",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/worried-about-varicose-veins-meet-our-expert/gadhvi_June2023",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/norwich-technogym-render",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/cannock-technogym-render",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/meet-our-expert-on-hip-pain/March2024/Parkar",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/clinical-services",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/tunbridge-wells/events/virtual-careers-event/10",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/enquiries",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/badgymhabits",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/your-datas-journey-through-nuffield-health-childrens-services",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/kidswellbeing",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/at-home",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/aoshearman",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/denham-garden",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/workplace-wellbeing-resources/more-than-words-the-importance-of-language-to-normalise-everyday-mental-health-and-enable-access-to-support-in-uncertain-times",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/life-fitness",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/payment-success-corporate-gym",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/your-path",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/404",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/sleep",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/vodafonefitness",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/modern-slavery-statement-2021",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/Invesco",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/plymouth-technogym-render",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/les-mills-on-demand",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/prishal-internal-page",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/nuffy-bear-day-nursery",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/whitgift",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/fitness-and-wellbeing/corporate-top-up-membership",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/barclays-private-gp",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/your-datas-journey-through-nuffield-health-emotional-wellbeing-services",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/cancel-or-freeze-your-gym-membership",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/campaigns/gyms/book-your-gym-tour",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/citi-dublin",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/media-centre/social-media",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/www.nuffieldhealth.com/gyms/birmingham-rubery/services/personal-training",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/meet-our-expert-on-knee-pain/march2024/tibrewal",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/keeping-our-hospitals-safe",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/pages/privacy",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/blood-pressure/stories",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/london-business-school",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/corporate-wellbeing/health-assessments/stella-and-peters-health-assessment-story",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/historichealthassessmentportal",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/healthcare-professionals/diagnostic-and-specialist-services/diagnostic-imaging-services",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/kensington-village",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/manchester",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/quality-assurance",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/damekellyholmes",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/mental-health-faqs",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/campaigns/hospitals/leeds/zero-wait",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/about-us/our-strategy-and-plans/our-future-plans/nuffield-health-at-st-bartholomews-hospital",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/corporate-wellbeing/employee-advice",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/epdq/template",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/goal-setting",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/corporate-wellbeing/health-services/nuffield-health-virtual-gp-service",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/skillrun",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/prod-edit.nuffieldhealth.com/hospitals/brentwood/events/foot-disorders/Oct19",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/https:/www.nuffieldhealth.com/physiotherapy/taunton",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/plymouth-hospital/mummy-mot-at-plymouth-hospital",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/cheltenham/anti-gravity-treadmill-in-cheltenham",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/aylesbury/womens-health-pelvic-floor-physiotherapy-at-aylesbury-fitness-wellbeing-gym",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/the-vale/womens-health-pelvic-floor-physiotherapy-at-the-vale-hospital",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/offers-for-nuffield-health-customers/20-off-physiotherapy-for-our-gym-members",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/woking/womens-health-pelvic-floor-physiotherapy-at-woking-hospital",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/moorgate/womens-health-pelvic-floor-physiotherapy-at-moorgate-fitness-wellbeing-gym",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/haywards-heath/womens-health-pelvic-floor-physiotherapy-at-haywards-heath-hospital",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/oxford/womens-health-pelvic-floor-physiotherapy-at-the-manor-hospital-oxford",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/guildford/womens-health-pelvic-floor-physiotherapy-at-guildford-hospital",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/nottingham/womens-health-pelvic-floor-physiotherapy-at-nottingham-fitness-and-wellbeing-centre",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/leeds/clinical-pilates-in-leeds",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/farnham/womens-health-pelvic-floor-physiotherapy-at-farnham-fitness-wellbeing-gym",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/aberdeen/womens-health-pelvic-floor-physiotherapy-at-aberdeen-fitness-wellbeing-gym",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/covent-garden/womens-health-pelvic-floor-physiotherapy-at-covent-garden-fitness-wellbeing-gym",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/physiotherapy/letchworth/womens-health-pelvic-floor-physiotherapy-at-letchworth-fitness-wellbeing-gym",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/health-topics/childrens-health/school-pilot/research",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/tests-scans/breast-screening-and-awareness/breast-screening-services-outline-and-rationale",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/paying-for-healthcare-treatment/the-nuffield-health-promise/the-nuffield-health-promise-faqs",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/events/meet-the-experts-on-varicose-thread-spider-veins/18april23",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/our-health-experts/experienced-health-consultants/matron-led-care",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/nuffield-health-at-st-bartholomews-hospital/rapid-access-breast-clinic-in-london/how-to-perform-a-breast-check",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/tunbridge-wells/events/virtual-careers-event/7",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/the-holly/general-surgery-at-the-holly/vascular-surgery-at-the-holly",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brentwood/about-nuffield-health-brentwood-hospital-in-essex/inpatient-information-at-brentwood-hospital",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/newcastle-upon-tyne/private-clinics/spinal-and-neurosurgery-in-newcastle",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/events/meet-the-expert-on-hips-knees/SS11JUL",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/pricing/treatment-prices-at-edinburgh-hospital",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/tees/events/lets-talk-back-neck-sciatica-pain/may",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/york/private-clinics/foot-and-ankle-clinic-in-york",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/pathology-direct/terms-and-conditions",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/nhs-patients/nhs-patients-treatments",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brighton/clinics/breast-care",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/events/meet-the-expert-on-hips/JL0603",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cambridge/about-cambridge-hospital/nuffield-health-cambridge-hospital-concierge-service",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/tunbridge-wells/back-and-neck-pain/back-and-neck-pain-assessment-clinic",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/north-staffordshire/our-hospital-north-staffordshire/awards-and-accreditation-north-staffordshire",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/manchester-institute-of-health-performance-mihp/treatments/platelet-rich-plasma-treatment-prp",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/hereford/private-gp-service-in-hereford/health-screening-at-hereford-hospital",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cambridge/cancer-care-oncology/maggies-centre",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/oxford/private-clinics/well-womb-clinic-at-oxford-the-manor-hospital",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/leicester/events/paediatric-dermatology-cows-milk-protein-intolerance-and-urticaria/0903",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cambridge/areas-of-speciality-at-cambridge-hospital/cancer-care-oncology",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/guildford/private-clincs/breast-care-clinic",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/events/meet-the-expert-on-hands-wrists-elbows/ap171024",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/events/meet-the-expert-on-oculoplastics/RJ150824",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/events/meet-the-expert-on-vision-correction/DA190824",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/glasgow/cosmetic-surgery/paying-for-treatment",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brentwood/events/meet-our-expert-on-hernia-surgery/Feb2023",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cheltenham/rapid-access-breast-clinic/breast-correction-surgery",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/events/screening-event-for-vision-correction/DA141024",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brentwood/events/concerned-about-your-haemorrhoids/Nov24/Shatkar",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/chichester/womens-health/varicose-vein-removal-in-chichester",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/events/meet-the-expert-on-cataracts-macular-diseases/ST20012025",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/tunbridge-wells/events/meet-our-expert-on-cosmetic-surgery/feb-24",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/leeds/about-us/the-leeds-blog/consultant-article-headaches-in-children",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/eye-care/laser-eye-surgery",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cheltenham/about/pre-admission-patient-assessment-at-cheltenham-hospital",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/events/meet-the-expert-on-spinal-surgery/CD050824",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/events/all-about-eyes/16may23",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/events/meet-the-expert-on-hip-knee-surgery/SS030924",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/the-holly/orthopaedic-centre-at-the-holly/podiatry-clinic-at-the-holly/verucca-clinic-at-the-holly",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brentwood/womens-health/gynaecology-in-brentwood",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/manchester-diagnostic-suite/events/updates-in-cardiac-imaging-cardiac-ct-cardiac-mri-cpd-event",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/wessex/events/free-laser-eye-screening-event/DA1103",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/glasgow/diagnostic-imaging-radiology/paying-for-diagnostic-imaging",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brentwood/events/meet-our-expert-on-varicose-veins/Nov24/Gadhvi",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/warwickshire/areas-of-speciality/breast-clinic",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cardiff-and-vale/about-our-hospitals/awards-and-accreditation-cardiff-and-vale-hospitals",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/the-holly/gastroenterology-at-the-holly/liver-disease-clinic-at-the-holly",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/cancer-centre-london/rapid-access-clinics-at-cancer-centre-london/one-stop-breast-clinic",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/leicester/events/ent-red-flags-in-telephone-consultations-for-adults-patients-parents/1801",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/tees/private-clinics/teesside-reflux-clinic",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/hereford/our-hospital-hereford/hereford-patient-guide",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/glasgow/fertility-treatment/patient-journey",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/tunbridge-wells/about-us/nuffield-health-wins-health-investor-award",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/tees/events/lets-talk-varicose-veins/june24",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/edinburgh/health-screening-at-edinburgh-hospital/visa-medical-service-at-edinburgh-hospital",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/areas-of-speciality/sense-sexual-health-services/safer-sex",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/glasgow/areas-of-speciality/orthopaedics/paying-for-treatment",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/patient-information/why-nuffield-health-is-different/why-go-private",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/nuffield-health-at-st-bartholomews-hospital/rehabilitation-services-in-london/recovery-plus-at-nuffield-health-at-st-bartholomews-hospital",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brighton/private-clinics/the-brighton-hernia-clinic",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/glasgow/areas-of-speciality/weight-loss-surgery/paying-for-your-treatment",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brentwood/events/gp-education-event-orthopaedics/June19",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/areas-of-specialty/orthopaedic-surgery",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/brighton/about-brighton-hospital-in-east-sussex/pharmacy-at-brighton",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/hospitals/leeds/childrens-services/paediatric-urology-at-nuffield-health-leeds-hospital",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chichester/classes/zumba",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/ilford/classes/zumba",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/glasgow-west-end/classes/pilates",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bromley/services/beauty-suite/meet-our-team",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/telford/classes/zumba",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/canary-wharf/services/squash-courts",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/swindon/classes/zumba",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/leeds/classes/pilates",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/croydon-central/classes/pilates",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/devonshire-plymouth/classes/zumba",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chislehurst/classes/pilates",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/wolverhampton/events/lets-talk-womens-health-dr-rachaneni-on-prolapse-incontinence-meet-our-expert-gynaecologist",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/shipley/classes/zumba",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/covent-garden/classes/pilates",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/class-booking-faq/etiquette",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/bristol-north/services/nuffy-bear-day-nursery/bristol-north-nursery-our-fees",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/stoke/events/all-things-menopause",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/moorgate/the-spa-and-day-packages/soprano-hair-removal/refer-and-be-rewarded",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/barrow-in-furness/services/personal-training",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/devonshire/classes/small-group-training",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/nutritional-therapy/expert-nutrition-content",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/reading/classes/zumba",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/chesterfield/classes/zumba",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/nuneaton/classes/zumba",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/oxfordshire/events/1-2-day-neurosurgery-symposium-June19",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/gyms/yeovil/classes/zumba",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {}
+  }
+}
