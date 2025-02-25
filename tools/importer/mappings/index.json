@@ -1,0 +1,318 @@
+{
+  "url": "https://www.nuffieldhealth.com/",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[3]/div[2]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/h1[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]\n  /html[1]/body[1]/div[1]/div[3]/div[3]\n  - /html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[3]/div[4]\n  - /html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[3]/div[5]\n  /html[1]/body[1]/div[1]/div[3]/div[6]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[2]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[3]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[4]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[5]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[6]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[7]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[8]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[9]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[10]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[11]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[12]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[13]\n  /html[1]/body[1]/div[1]/div[3]/div[7]\n  - /html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[3]/div[8]\n  /html[1]/body[1]/div[1]/div[3]/div[9]\n  /html[1]/body[1]/div[1]/div[3]/div[10]\n  /html[1]/body[1]/div[1]/div[4]",
+    "hash": 59618573
+  },
+  "pageHeight": 4359,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id--1234801151",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 53,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 84,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vb2ztr-1234801151"
+            },
+            {
+              "id": "box-id-2056134578",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 441,
+              "height": 316,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/h1[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 120,
+              "y": 227,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vb2ztr-2056134578"
+            },
+            {
+              "id": "box-id--746293502",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 441,
+              "height": 153,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 120,
+              "y": 544,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vb2ztr-746293502"
+            },
+            {
+              "id": "box-id--554742750",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 409,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row row--white\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--2 grid--bottom-margin\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row row--white\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--2 grid--bottom-margin\"]/div[@class=\"grid__cell\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 0,
+              "y": 814,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-vb2ztr-554742750"
+            },
+            {
+              "id": "box-id--554742719",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 347,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[4]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row row--limestone\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--2 grid--bottom-margin\"]/div[@class=\"grid__cell\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"row row--limestone\"]/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"grid grid--2 grid--bottom-margin\"]/div[@class=\"grid__cell\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 0,
+              "y": 1224,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-vb2ztr-554742719"
+            },
+            {
+              "id": "box-id--554742688",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 150,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[5]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 1572,
+              "mapping": "unknown",
+              "customBlockName": "aiunknown-vb2ztr-554742688"
+            },
+            {
+              "id": "box-id--554742657",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 1899,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[6]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[1]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016a-2156-d769-afff-3fde1e8a0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[2]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016a-2156-d769-afff-3fde1e8a0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[3]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016a-2156-d769-afff-3fde1e8a0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[4]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016a-2156-d769-afff-3fde1e8a0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[5]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016a-2156-d769-afff-3fde1e8a0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[6]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016a-2156-d769-afff-3fde1e8a0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[7]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016a-2156-d769-afff-3fde1e8a0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[8]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016a-2156-d769-afff-3fde1e8a0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[9]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016a-2156-d769-afff-3fde1e8a0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[10]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016a-2156-d769-afff-3fde1e8a0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[11]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016a-2156-d769-afff-3fde1e8a0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[12]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016a-2156-d769-afff-3fde1e8a0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--small promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[13]",
+                  "xpathWithDetails": "id(\"promo-tiles-0000016a-2156-d769-afff-3fde1e8a0000\")/a[@class=\"promo-tiles__tile promo-tiles__tile--full promo-tiles__tile--align-left promo-tiles__tile--text-colour-light\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 3,
+                "numRows": 5
+              },
+              "x": 0,
+              "y": 1737,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-vb2ztr-554742657"
+            },
+            {
+              "id": "box-id-1630438494",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1150,
+              "height": 96,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 65,
+              "y": 3711,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vb2ztr-1630438494"
+            },
+            {
+              "id": "box-id--904919160",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1120,
+              "height": 110,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/div[2]/div[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/div[2]/div[1]/span[1]",
+                  "xpathWithDetails": "id(\"locations\")/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"location-finder js-location-finder\"]/div[@class=\"location-finder__header\"]/span[@class=\"location-finder__heading\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]",
+                  "xpathWithDetails": "id(\"locations\")/div[@class=\"layout-container\"]/div[@class=\"layout layout--12\"]/div[@class=\"layout__column layout__column--1\"]/div[@class=\"location-finder js-location-finder\"]/div[@class=\"location-finder__header\"]/form[@class=\"location-finder__form js-location-finder-form location-finder__form--visible\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 80,
+              "y": 3807,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-vb2ztr-904919160"
+            },
+            {
+              "id": "box-id--904919129",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1120,
+              "height": 84,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/div[2]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 80,
+              "y": 3917,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-vb2ztr-904919129"
+            },
+            {
+              "id": "box-id--554742595",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 90,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[8]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 4091,
+              "mapping": "unknown",
+              "customBlockName": "aiunknown-vb2ztr-554742595"
+            },
+            {
+              "id": "box-id--554742564",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 60,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[9]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 4181,
+              "mapping": "unknown",
+              "customBlockName": "aiunknown-vb2ztr-554742564"
+            },
+            {
+              "id": "box-id--17159290",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 60,
+              "xpath": "/html[1]/body[1]/div[1]/div[3]/div[10]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 4241,
+              "mapping": "unknown",
+              "customBlockName": "aiunknown-vb2ztr-17159290"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

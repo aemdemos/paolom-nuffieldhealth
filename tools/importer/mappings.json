@@ -1,0 +1,40 @@
+{
+  "mappings": [
+    {
+      "path": "tools/importer/mappings/nav.json"
+    },
+    {
+      "path": "tools/importer/mappings/footer.json"
+    },
+    {
+      "path": "tools/importer/mappings/index.json"
+    },
+    {
+      "path": "tools/importer/mappings/hospitals.json"
+    },
+    {
+      "path": "tools/importer/mappings/gyms.json"
+    },
+    {
+      "path": "tools/importer/mappings/services.json"
+    },
+    {
+      "path": "tools/importer/mappings/advice-hubs.json"
+    },
+    {
+      "path": "tools/importer/mappings/consultants/mr-daniele-borsetto.json"
+    },
+    {
+      "path": "tools/importer/mappings/article/gym-hacks-time-saving-tips-for-busy-people.json"
+    },
+    {
+      "path": "tools/importer/mappings/treatments/gastric-electrical-stimulation-for-gastroparesis.json"
+    },
+    {
+      "path": "tools/importer/mappings/conditions/dementia.json"
+    },
+    {
+      "path": "tools/importer/mappings/article/authors/dr-annie-evans.json"
+    }
+  ]
+}

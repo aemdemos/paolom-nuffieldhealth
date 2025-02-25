@@ -1,0 +1,46 @@
+{
+  "url": "https://www.nuffieldhealth.com/",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[3]/div[2]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/h1[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]\n  /html[1]/body[1]/div[1]/div[3]/div[3]\n  - /html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[3]/div[4]\n  - /html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[3]/div[5]\n  /html[1]/body[1]/div[1]/div[3]/div[6]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[2]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[3]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[4]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[5]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[6]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[7]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[8]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[9]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[10]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[11]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[12]\n  - /html[1]/body[1]/div[1]/div[3]/div[6]/div[1]/a[13]\n  /html[1]/body[1]/div[1]/div[3]/div[7]\n  - /html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[3]/div[7]/div[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[3]/div[8]\n  /html[1]/body[1]/div[1]/div[3]/div[9]\n  /html[1]/body[1]/div[1]/div[3]/div[10]\n  /html[1]/body[1]/div[1]/div[4]",
+    "hash": 59618573
+  },
+  "pageHeight": 4359,
+  "mapping": [
+    {
+      "id": "footer-1",
+      "path": "/footer",
+      "sections": [
+        {
+          "id": "footer-1-1",
+          "blocks": [
+            {
+              "id": "box-id--596430912",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 57,
+              "xpath": "/html[1]/body[1]/div[1]/div[4]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 4301,
+              "mapping": "footer",
+              "customBlockName": "aifooter-vb2ztr-596430912"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
